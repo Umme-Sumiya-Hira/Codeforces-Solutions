@@ -4,6 +4,10 @@ This repository contains my solutions to Codeforces problems.
 
 I am using this repository to practice competitive programming, improve my problem-solving skills, and track my progress over time.
 
+## Codeforces Profile
+
+[My Codeforces Profile](https://codeforces.com/profile/sumiya.cstu)
+
 ## Structure
 
 Problems are organized according to their Codeforces rating.
