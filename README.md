@@ -25,8 +25,8 @@ Each problem has its own folder containing the solution.
 
 Example:
 
-800/
-└── 4A-Watermelon/
+800
+└── 4A-Watermelon
     └── solution.cpp
 
 ## Language
